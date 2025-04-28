@@ -65,4 +65,3 @@ To set up the project locally:
 - 🌻 daisyUI (UI Components)
 - 🎨 Tailwind CSS (Styling)
 - 🗄️ MySQL (Database)
-```
